@@ -1,0 +1,27 @@
+#logoIgas{
+  width: 250px;
+  height: 70px;
+}
+#templatemo-nav-bar>ul>li>a{
+  font-size: 16px;
+  font-weight: bold;
+  font-size-adjust: auto;
+}
+header>div.container-fluid>div.row{
+  background: -o-linear-gradient(90deg,rgba(55, 129, 226, 0.9), yellow); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(90deg, rgba(55, 129, 226, 0.9), yellow); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(90deg , rgba(55, 129, 226, 0.9) , yellow); /* Standard syntax */
+  height: 85px;
+}
+header{
+  border-top: 6px solid rgb(255, 239, 15);
+}
+ul.slides>li.row>img{
+  height: 480px;
+}
+ul.nav.navbar-right{
+  margin-top: 15px;
+}
+#templatemo_logo{
+  padding-top: 0px;
+}
